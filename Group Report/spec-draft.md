@@ -145,3 +145,12 @@ Nếu vi phạm từ 2 điều kiện trở lên thì nên kill hoặc pivot.
   "status": "CONFIRMED"
 }
 ```
+
+## Phân công nhiệm vụ
+
+- Lê Quang Minh: AI Product Canvas
+- Ngô Quang Phúc: User Stories x 4 paths
+- Nguyễn Việt Hoàng: Eval metrics - 3 metrics + threshold + red flag
+- Trần Quốc Việt: Top 3 failure modes
+- Nguyễn Bình Minh: ROI 3 kịch bản
+- Bùi Quang Vinh: Mini AI spec 1 trang
